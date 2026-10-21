@@ -1,5 +1,5 @@
 /**
- * @fileoverview Inicialización de Firebase para el proyecto lista_invitados_publica.
+ * @fileoverview Inicialización de Firebase para el proyecto lista_invitados_boda.
  * @author Job Adolfo Salinas Hernández
  */
 import { initializeApp } from "firebase/app";
